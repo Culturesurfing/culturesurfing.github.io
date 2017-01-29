@@ -1,0 +1,39 @@
+body{
+   background: url(../img/test.jpg) no-repeat; background-size: cover;
+   
+ 	font-family: arial;
+   font-size:25px;
+}
+
+h1{
+	color:white;
+    font-size:60px;
+}
+
+h2{
+    color:white;
+    font-size: 30px;
+}
+
+li{
+	color:white;
+    font-size: 30px;
+}
+
+.btn {
+  font-weight: 300;
+}
+
+.btn-primary {
+  background: white;
+  border-color: #e16879;
+}
+
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:focus,
+.btn-primary:active:focus {
+  background: #e05164;
+  border-color: #e05164;
+}
+
